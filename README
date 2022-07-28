@@ -1,0 +1,3 @@
+Training a simple CNN which can accurately recognize and classify Handwritten Images of Digits. 
+CNN was created with the use of TensorFlow & Keras, training dataset obtained from MNIST dataset: https://www.tensorflow.org/datasets/catalog/mnist
+Project was just for fun and trying out TensorFlow, simply followed an online tutorial
